@@ -6,8 +6,6 @@ import botiha from "../../pics/spring.webp";
 import crown from "../../pics/sooronbai.jpg"
 import guest from "../../pics/workabroad.jpg"
 
-
-
 const News = () => {
     return (
 
