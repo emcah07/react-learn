@@ -10,9 +10,7 @@ import { Link } from "react-router-dom";
 const Home = () => {
 
     return (
-        
         <>
-        
             <section className={"sec1"}>
                 <div className={"div1sec1"}>
                     <img src={tktl} alt=""/>
